@@ -25,13 +25,7 @@ Dark Mode support
 
 Student-friendly and mobile-optimized design
 
-🛠 Tech Stack
 
-Frontend: (Add your tech here – Flutter / React Native / Android / Web)
-
-Backend: (Firebase / Node / API / etc.)
-
-Database: (Firestore / Realtime DB / etc.)
 
 Storage: Google Drive links for content delivery
 
